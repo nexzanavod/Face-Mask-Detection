@@ -20,7 +20,7 @@ Since this system is just a prototype, I have an idea to fix all the bugs and re
 <li>Firebase</li>
 <li>JS</li>
   
-  
+<b>  
 MIT License
 
 Copyright (c) 2021 Navod Pasindu Amarakoon
