@@ -22,7 +22,7 @@ Since this system is just a prototype, I have an idea to fix all the bugs and re
   
 <br> 
 </br>
-##MIT License
+## MIT License
 
 Copyright (c) 2021 Navod Pasindu Amarakoon
 
