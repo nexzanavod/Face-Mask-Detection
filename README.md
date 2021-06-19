@@ -23,7 +23,6 @@ Since this system is just a prototype, I have an idea to fix all the bugs and re
 <br> 
 </br>
 ## MIT License
-
 Copyright (c) 2021 Navod Pasindu Amarakoon
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
